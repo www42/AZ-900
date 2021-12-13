@@ -12,6 +12,11 @@
 
 [Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
+Bender      Q0VUWFRMOQ0R7IEB95
+
+Lerch       QKIBBCTGTYR5FKFG13
+
+
 ---
 
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
