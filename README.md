@@ -8,6 +8,10 @@
 
 ---
 
+[Feedback](https://www.metricsthatmatter.com/url/u.aspx?470E36C86183077694)
+
+---
+
 [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
 
 [Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
