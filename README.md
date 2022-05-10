@@ -12,6 +12,10 @@
 
 ---
 
+[Download Presentation](https://video42.blob.core.windows.net/seminar/AZ-900.zip)
+
+---
+
 [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
 
 [Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
