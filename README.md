@@ -21,6 +21,7 @@
 [Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
 
 [Microsoft responds to European Cloud Provider feedback](https://blogs.microsoft.com/eupolicy/2022/05/18/microsoft-responds-to-european-cloud-provider-feedback-with-new-programs-and-principles/)
+
 ---
 
 ## Useful links
