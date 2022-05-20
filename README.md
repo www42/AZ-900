@@ -6,6 +6,12 @@
 
 [Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
 
+
+---
+
+[Feedback](https://www.metricsthatmatter.com/url/u.aspx?580D31DA6183825842)
+
+
 ---
 
 ## How to
@@ -21,6 +27,9 @@
 [Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
 
 [Microsoft responds to European Cloud Provider feedback](https://blogs.microsoft.com/eupolicy/2022/05/18/microsoft-responds-to-european-cloud-provider-feedback-with-new-programs-and-principles/)
+
+[Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
+
 
 ---
 
