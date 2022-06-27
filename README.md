@@ -12,7 +12,6 @@
 [Feedback](https://www.metricsthatmatter.com/url/u.aspx?580D31DA6183825842)
 
 
-[Presentation Download](https://katzenvideos.blob.core.windows.net/ppt/AZ-900.zip)
 
 ---
 
