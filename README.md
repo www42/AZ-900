@@ -4,6 +4,8 @@
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
+[Landing Zones Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale)
+
 [Skillpipe](https://skillpipe.com)
 
 [Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
