@@ -33,7 +33,7 @@
 
 [Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
 
-
+[Create an enterprise-scale architecture in Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/enterprise-scale-architecture/)
 ---
 
 ## Useful links
