@@ -4,16 +4,10 @@
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
-[Landing Zones Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale)
-
 [Skillpipe](https://skillpipe.com)
 
 [Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
 
-
----
-
-[Feedback](https://www.metricsthatmatter.com/url/u.aspx?7DB697830185762094)
 
 
 
@@ -35,7 +29,8 @@
 
 [Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
 
-[Create an enterprise-scale architecture in Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/enterprise-scale-architecture/)
+[Wer ist eigentlich Pau?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+
 ---
 
 ## Useful links
