@@ -1,4 +1,4 @@
-# AZ-900 Azure Fundamentals & Cloud Adoption Framework
+# AZ-900 Azure Fundamentals
 
 [AZ-900 Walkthroughs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
 
