@@ -1,0 +1,1 @@
+az deployment group create --resource-group 'Container-RG' --template-file aci-smb.json --parameters storageAccountName='storage69118' storageAccountKey='36yalgeqb0MWevtlaa/+Jx85zTOQtGFYvydRdba66UZks8/ITdA0e9TWiABM3WEi3GEhMzxnm4HY+AStrcsYhQ=='
