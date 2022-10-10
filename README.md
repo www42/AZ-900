@@ -21,7 +21,7 @@
 
 [Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
 
-[Wer ist eigentlich Pau?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
 
 ---
 
