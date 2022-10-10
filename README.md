@@ -4,22 +4,12 @@
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
-[Skillpipe](https://skillpipe.com)
-
-[Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
+[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 
 ---
 
 [Feedback (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?9458FBAE7185961361)
-
----
-
-## How to
-
-[Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
-
-[Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
 ---
 
