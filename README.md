@@ -1,6 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-[AZ-900 Walkthroughs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
+[AZ-900 Labs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
@@ -9,7 +9,26 @@
 
 ---
 
-[Feedback (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?9458FBAE7185961361)
+[Feedback (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?3580E70BC189478115)
+
+---
+
+[Claim Badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=L6PLGM&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+---
+
+## Microsoft Learn
+
+[Learning Path Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+
+[Learning Path Azure Fundamentals: Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
+
+[Learning Path Azure Fundamentals: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+
+
+
+
+
 
 ---
 
