@@ -2,8 +2,6 @@
 
 [AZ-900 Labs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
 
-[Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
-
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 
@@ -28,22 +26,6 @@
 
 
 
-
-
----
-
-[The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)
-
-[Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
-
-[Microsoft responds to European Cloud Provider feedback](https://blogs.microsoft.com/eupolicy/2022/05/18/microsoft-responds-to-european-cloud-provider-feedback-with-new-programs-and-principles/)
-
-[Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
-
-[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
-
----
-
 ## Useful links
 
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
@@ -57,6 +39,19 @@
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
+
+[Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+
+[The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)
+
+[Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
+
+[Microsoft responds to European Cloud Provider feedback](https://blogs.microsoft.com/eupolicy/2022/05/18/microsoft-responds-to-european-cloud-provider-feedback-with-new-programs-and-principles/)
+
+[Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
+
+[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+
 
 
 ##  Your Trainer
