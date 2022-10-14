@@ -1,21 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-[AZ-900 Labs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
-
-[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
-
-
----
-
-[Feedback (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?3580E70BC189478115)
-
----
-
-[Claim Badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=L6PLGM&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
----
-
-## Microsoft Learn
+## AZ-900 at Microsoft Learn: Three Learning Paths
 
 [Learning Path Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
@@ -24,9 +9,32 @@
 [Learning Path Azure Fundamentals: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
 
+## AZ-900 Labs
+
+[AZ-900 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
+
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
+---
+
+[Give Feedback! (Metrics That Matter)](#az-900-azure-fundamentals)
+
+[Claim your Badge! (Microsoft Learn)](#az-900-azure-fundamentals)
+
+---
+
 
 
 ## Useful links
+
+[Nobel Prize in Pchysics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
+
+[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+
+[Scott Hanselman](https://www.hanselman.com/)
 
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
 
@@ -50,7 +58,6 @@
 
 [Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
 
-[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
 
 
 
@@ -70,3 +77,7 @@
 [Twitter](https://twitter.com/tjkkll)
 
 [Blog](https://blog.az.training)
+
+---
+
+[Top](#az-900-azure-fundamentals)
