@@ -30,7 +30,7 @@
 
 ## Useful links
 
-[Nobel Prize in Pchysics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
+[Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
 
 [Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
 
