@@ -1,6 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-## AZ-900 at Microsoft Learn: Three Learning Paths
+## AZ-900 at Microsoft Learn
 
 [Learning Path Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
