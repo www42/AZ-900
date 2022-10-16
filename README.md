@@ -11,12 +11,12 @@
 
 ## AZ-900 Labs
 
-[AZ-900 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
-
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
+
+Optional: [AZ-900 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
 
 ---
 
