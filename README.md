@@ -16,8 +16,6 @@
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
-Optional: [AZ-900 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
-
 ---
 
 [Give Feedback! (Metrics That Matter)](#az-900-azure-fundamentals)
