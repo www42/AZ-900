@@ -18,9 +18,9 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](#az-900-azure-fundamentals)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?95F723910189797023)
 
-[Claim your Badge! (Microsoft Learn)](#az-900-azure-fundamentals)
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=N6QM27&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
 
