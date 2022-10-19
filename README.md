@@ -8,6 +8,8 @@
 
 [Microsoft Azure Fundamentals Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)
 
+[MeasureUp](https://www.measureup.com/microsoft-official-practice-test-az-900-microsoft-azure-fundamentals.html) ESI Portal
+
 [ExamTopics](https://www.examtopics.com/)
 
 ---
