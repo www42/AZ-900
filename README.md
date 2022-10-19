@@ -1,5 +1,17 @@
 # AZ-900 Azure Fundamentals
 
+# AZ-900 Exam Preparation
+
+[Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
+
+[Exam Demo](https://aka.ms/examdemo)
+
+[Microsoft Azure Fundamentals Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)
+
+
+---
+
+
 ## AZ-900 at Microsoft Learn
 
 [Learning Path Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
@@ -18,9 +30,9 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?95F723910189797023)
+[Give Feedback! (Metrics That Matter)](#az-900-azure-fundamentals)
 
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=N6QM27&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+[Claim your Badge! (Microsoft Learn)](#az-900-azure-fundamentals)
 
 ---
 
@@ -62,7 +74,21 @@
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://github.com/www42/AFT/blob/5e0f3e5e76a66736eaf06845fafd9ce035d73b30/Profilbild.jpg" width="200"/>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
+<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/MCT-badge.png" width="130"/></a>
+<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
+
+[My certifications](https://www.credly.com/users/thomas-jakel)
+
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=SC-900)
+
+[Check out my GitHub repos](https://github.com/www42)
+
+[Find me on LinkedIn](https://linkedin.com/in/tjkkll)
+
+[Follow me on Twitter](https://twitter.com/tjkkll)
+
+[My Blog](https://blog.az.training)
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
