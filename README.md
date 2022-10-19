@@ -1,6 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-# AZ-900 Exam Preparation
+# Exam Preparation
 
 [Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
 
@@ -8,13 +8,14 @@
 
 [Microsoft Azure Fundamentals Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)
 
+[ExamTopics](https://www.examtopics.com/)
 
 ---
 
 
 ## AZ-900 at Microsoft Learn
 
-[Learning Path Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+[Learning Path Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
 
 [Learning Path Azure Fundamentals: Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 
