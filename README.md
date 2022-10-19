@@ -2,6 +2,8 @@
 
 # Exam Preparation
 
+[Exam AZ-900 Microsoft Learn](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+
 [Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
 
 [Exam Demo](https://aka.ms/examdemo)
