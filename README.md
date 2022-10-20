@@ -1,20 +1,5 @@
 # AZ-900 Azure Fundamentals
 
-# Exam Preparation
-
-[Exam AZ-900 Microsoft Learn](https://learn.microsoft.com/en-us/certifications/exams/az-900)
-
-[Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
-
-[Exam Demo](https://aka.ms/examdemo)
-
-[Microsoft Azure Fundamentals Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)
-
-[MeasureUp](https://www.measureup.com/microsoft-official-practice-test-az-900-microsoft-azure-fundamentals.html) please visit [ESI Portal](https://esi.microsoft.com/)
-
-[ExamTopics](https://www.examtopics.com/)
-
----
 
 
 ## AZ-900 at Microsoft Learn
@@ -28,10 +13,9 @@
 
 ## AZ-900 Labs
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+1. [Create a new personal Microsoft account (free)](https://outlook.live.com/owa/)
 
-1. Sign in with your Skillable account 
-2. Register with Training Key
+2. [Redeem your Azure Pass code](https://www.microsoftazurepass.com)
 
 ---
 
@@ -41,6 +25,20 @@
 
 ---
 
+# AZ-900 Exam Preparation
+
+[Exam AZ-900 Microsoft Learn](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+
+[Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
+
+[Exam Demo](https://aka.ms/examdemo)
+
+[Microsoft Azure Fundamentals Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)
+
+[MeasureUp](https://www.measureup.com/microsoft-official-practice-test-az-900-microsoft-azure-fundamentals.html) please visit [ESI Portal](https://esi.microsoft.com/)
+
+
+---
 
 
 ## Useful links
