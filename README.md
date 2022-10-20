@@ -17,6 +17,10 @@
 
 2. [Redeem your Azure Pass code](https://www.microsoftazurepass.com)
 
+[Lab instructions](https://github.com/www42/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs)
+
+[Lab Anleitungen deutsch](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals.de-de/tree/main/Instructions/Walkthroughs)
+
 ---
 
 [Give Feedback! (Metrics That Matter)](#az-900-azure-fundamentals)
