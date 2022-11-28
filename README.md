@@ -4,7 +4,7 @@
 
 ## AZ-900 at Microsoft Learn
 
-[Learning Path Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+[Learning Path Azure Fundamentals: Describe core Azure concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
 [Learning Path Azure Fundamentals: Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 
@@ -13,13 +13,11 @@
 
 ## AZ-900 Labs
 
-1. [Create a new personal Microsoft account (free)](https://outlook.live.com/owa/)
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
-2. [Redeem your Azure Pass code](https://www.microsoftazurepass.com)
+1. Sign in with your Skillable account 
+2. Register with Training Key
 
-[Lab instructions](https://github.com/www42/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs)
-
-[Lab Anleitungen deutsch](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals.de-de/tree/main/Instructions/Walkthroughs)
 
 ---
 
@@ -47,17 +45,9 @@
 
 ## Useful links
 
-[Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
-
-[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
-
-[Scott Hanselman](https://www.hanselman.com/)
-
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-
-[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
@@ -71,9 +61,16 @@
 
 [Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
 
-[Microsoft responds to European Cloud Provider feedback](https://blogs.microsoft.com/eupolicy/2022/05/18/microsoft-responds-to-european-cloud-provider-feedback-with-new-programs-and-principles/)
+[Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
 
-[Super Mario als Docker Image](https://hub.docker.com/r/bharathshetty4/supermario)
+[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
+
+[Scott Hanselman](https://www.hanselman.com/)
+
+[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
+
+
+
 
 
 
