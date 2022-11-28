@@ -87,7 +87,7 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=SC-900)
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
 
 [Check out my GitHub repos](https://github.com/www42)
 
@@ -97,17 +97,6 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 [My Blog](https://blog.az.training)
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
-
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
-
-[GitHub](https://github.com/www42)
-
-[linkedIn](https://linkedin.com/in/tjkkll)
-
-[Twitter](https://twitter.com/tjkkll)
-
-[Blog](https://blog.az.training)
 
 ---
 
