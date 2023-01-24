@@ -26,9 +26,9 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 ---
 
-[Give Feedback! (Metrics That Matter)](#az-900-azure-fundamentals)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?7CEC7BF40193547337)
 
-[Claim your Badge! (Microsoft Learn)](#az-900-azure-fundamentals)
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=5MVVVY&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
 
