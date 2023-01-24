@@ -4,11 +4,13 @@
 
 ## AZ-900 at Microsoft Learn
 
-Learning Path [Describe core Azure concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
+Learning Path 01 [Describe core Azure concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
-Learning Path [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
+Learning Path 02 [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 
-Learning Path [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+Learning Path 03 [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+
+---
 
 Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
