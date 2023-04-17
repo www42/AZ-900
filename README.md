@@ -24,26 +24,14 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 2. Register with Training Key
 
 
----
-
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?7CEC7BF40193547337)
-
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=5MVVVY&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
----
 
 # AZ-900 Exam Preparation
 
-[Exam AZ-900 Microsoft Learn](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+[Free practice assessment](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 
 [Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
 
 [Exam Demo](https://aka.ms/examdemo)
-
-[Microsoft Azure Fundamentals Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)
-
-[MeasureUp](https://www.measureup.com/microsoft-official-practice-test-az-900-microsoft-azure-fundamentals.html) please visit [ESI Portal](https://esi.microsoft.com/)
-
 
 ---
 
