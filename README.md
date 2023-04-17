@@ -42,6 +42,8 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
+[Azure Free Account](https://azure.microsoft.com/de-de/free)
+
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
