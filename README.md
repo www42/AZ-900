@@ -1,6 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-
+[Get the presentation](pdf)
 
 ## AZ-900 at Microsoft Learn
 
