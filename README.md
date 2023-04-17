@@ -50,7 +50,7 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
-[The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)
+[The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)   [pdf](NIST\nistspecialpublication800-145.pdf)
 
 [Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
 
