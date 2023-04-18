@@ -2,8 +2,10 @@
 
 ---
 [Give feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?6A1154F5A196369614)
+---
 
 [Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=M5KQZZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+---
 
 [Get the presentation!](pdf)
 ---
