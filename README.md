@@ -24,7 +24,8 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 2. Register with Training Key
 
 Training Keys:
-| Name | Training Key |
+| Name                   | Training Key     |
+| ---------------------- | ---------------- |
 | Cord Raber             | 1DB04525D237497B |
 | Axel Lücke             | 2E80D0277AA94E73 |
 | Urban Schniggendiller  | 474308018B9C40AF |
