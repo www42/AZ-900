@@ -1,13 +1,3 @@
-# Cloud Adoption Framework
-
-[Get the presentation](pdf-caf)
-
-[Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
-
-[CAF Learning Path](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework/)
-
-
-
 # AZ-900 Azure Fundamentals
 
 
@@ -33,6 +23,20 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
+Training Keys:
+| Name | Training Key |
+| Cord Raber             | 1DB04525D237497B |
+| Axel Lücke             | 2E80D0277AA94E73 |
+| Urban Schniggendiller  | 474308018B9C40AF |
+| Katharina Herner       | 4F9E07D5C0964969 |
+| Arne Frehe             | 514D6EBFD19D4F73 |
+| Henrik Grafe           | 560D5A7920B14926 |
+| Detlef Keuchel         | 9EE0DE59889E4751 |
+| Carsten Liebfried      | AFF80496BE3C411D |
+| Stefan Lo Guidice      | C1E8CFEC007B4F0E |
+| Jürgen Schreier        | C307D733156B4745 |
+| Sascha Schriewer       | C8819CDC712B4F20 |
+| Thorsten Nathaus       | D786C2EC43CD4538 |
 
 
 # AZ-900 Exam Preparation
