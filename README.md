@@ -23,20 +23,6 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
-Training Keys:
-| Name                   | Training Key     |
-| ---------------------- | ---------------- |
-| Daniel Ostermann       | 0847B17436F04A90 |
-| Leon Halinde           | 266873DCD50543FA |
-| Dominik Makein         | 69AA7AEA6D57411B |
-| Markus Kreul           | 6A8E2F32C1D04DC8 |
-| Martin Naujokat        | 94FD3763BED24B7A |
-| Daniel Skrobek         | ABE3629350A2436C |
-| Michael Reick          | BB22D6508A074EF4 |
-| Sylwester Dupik        | BDC2F46866C64EDC |
-| Thorsten Hintemann     | E373C53F4A154168 |
-| Nico Haimann           | E3AFC38E41784543 |
-| Rico Schwanke          | FD4A88B9CE0548CA |
 
 
 # AZ-900 Exam Preparation
@@ -89,6 +75,7 @@ Training Keys:
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
 <a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/MCT-badge.png" width="130"/></a>
+<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
 <a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
