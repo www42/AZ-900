@@ -1,6 +1,8 @@
 # AZ-900 Azure Fundamentals
 
+[Präsentation vormittags](pdf-vormittags)
 
+[Präsentation nachmittags](pdf-nachmittags)
 
 ## AZ-900 at Microsoft Learn
 
