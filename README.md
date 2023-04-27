@@ -4,6 +4,8 @@ Get your badge (Microsoft Learn)
 
 [Gruppe vormittag](https://learn.microsoft.com/users/me/achievements?redeem=5MZ5R3&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
+[Gruppe nachmittag](https://learn.microsoft.com/users/me/achievements?redeem=PZDX39&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
 ---
 
 [Präsentation vormittags](pdf-vormittags)
