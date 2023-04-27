@@ -1,5 +1,11 @@
 # AZ-900 Azure Fundamentals
 
+Get your badge (Microsoft Learn)
+
+[Gruppe vormittag](https://learn.microsoft.com/users/me/achievements?redeem=5MZ5R3&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+---
+
 [Präsentation vormittags](pdf-vormittags)
 
 [Präsentation nachmittags](pdf-nachmittags)
@@ -55,6 +61,10 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
 [Bicep Playground](https://aka.ms/bicepdemo)
+
+[Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
+
+[Deploy a simple Windows VM Template](https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/vm-simple-windows/)
 
 [The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)   pdf [click here](https://github.com/www42/AZ-900/blob/2db545e47abf146baf07f907f1c393310a982f31/NIST/nistspecialpublication800-145.pdf)
 
