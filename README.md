@@ -1,16 +1,5 @@
 # AZ-900 Azure Fundamentals
 
-Get your badge (Microsoft Learn)
-
-[Gruppe vormittag](https://learn.microsoft.com/users/me/achievements?redeem=5MZ5R3&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-[Gruppe nachmittag](https://learn.microsoft.com/users/me/achievements?redeem=PZDX39&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
----
-
-[Präsentation vormittags](pdf-vormittags)
-
-[Präsentation nachmittags](pdf-nachmittags)
 
 ## AZ-900 at Microsoft Learn
 
@@ -90,7 +79,7 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 #### Thomas Jäkel
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
+<a href="https://www.credly.com/badges/45225cf5-ede7-45d2-8ac6-b5a22315679c/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
 <a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
