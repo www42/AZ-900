@@ -37,7 +37,7 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 ## Useful links
 
-[Microsoft Train Cert Poster](https://aka.ms/traincertposter)
+[Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
