@@ -1,5 +1,15 @@
 # AZ-900 Azure Fundamentals
 
+---
+
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?101C59292199776655)
+
+[Claim your badge](https://learn.microsoft.com/users/me/achievements?redeem=N3Y672&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+[Get the Presentation](pdf)
+
+
+---
 
 ## AZ-900 at Microsoft Learn
 
