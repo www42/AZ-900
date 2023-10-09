@@ -1,6 +1,14 @@
 # AZ-900 Azure Fundamentals
 
 
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?E84D79798202927544)
+
+[Grab your Badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=K4YVR3)
+
+[Get the Presentation](pdf)
+
+
+
 ## AZ-900 at Microsoft Learn
 
 Learning Path 01 [Describe core Azure concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
