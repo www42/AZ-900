@@ -126,8 +126,6 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
 
-[My Blog](https://blog.az.training)
-
 
 ---
 
