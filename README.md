@@ -1,17 +1,7 @@
 # AZ-900 Azure Fundamentals
 
 
-[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?E84D79798202927544)
-
-[Grab your Badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=K4YVR3)
-
-[Get the Presentation](pdf)
-
-
-
-## AZ-900 at Microsoft Learn
-
-Learning Path 01 [Describe core Azure concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
+Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
 Learning Path 02 [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 
@@ -23,7 +13,7 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 
 
-## AZ-900 Labs
+## Lab Environment Skillable 
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
@@ -42,20 +32,61 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 ---
 
+## Learning Path 01
 
-## Useful links
+[Azure global infrastructure](https://datacenters.microsoft.com/globe/)
+
+[Azure cross-region replication](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
+
+
+
+## Learning Path 02
+
+[Azure Free Account](https://azure.microsoft.com/de-de/free)
+
+[Microsoft Learn Sandbox - Example](https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/5-exercise-create-storage-blob)
+
+[Azure Regions](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/#geographies)
+
+[Azure Compute](https://azure.microsoft.com/en-us/products/category/compute/)
+
+[Microsoft Entra ID (formerly Azure Active Directory)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+
+
+
+
+
+
+## Learning Path 03
+
+[Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/)
+
+[Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+
+[Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
+
+[Service Trust Portal](https://servicetrust.microsoft.com/)
+
+[What is Microsoft Purview?](https://learn.microsoft.com/en-us/purview/purview)
+
+[Azure Resource Manager Overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+
+
+
+
+## Misc
+
+[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)
 
 [Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-[Azure Free Account](https://azure.microsoft.com/de-de/free)
-
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
 
-[Azure documentation](https://docs.microsoft.com/en-us/azure/)
+[Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
