@@ -7,9 +7,16 @@ Learning Path 02 [Describe Azure architecture and services](https://learn.micros
 
 Learning Path 03 [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
----
+## Certification 
 
-Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
+[Free practice assessment](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+
+[Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
+
+[Exam Demo](https://aka.ms/examdemo)
+
 
 
 
@@ -22,15 +29,6 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 
 
 
-# AZ-900 Exam Preparation
-
-[Free practice assessment](https://learn.microsoft.com/en-us/certifications/exams/az-900)
-
-[Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
-
-[Exam Demo](https://aka.ms/examdemo)
-
----
 
 ## Learning Path 01
 
@@ -51,9 +49,6 @@ Certification [Azure Fundamentals](https://learn.microsoft.com/en-us/certificati
 [Azure Compute](https://azure.microsoft.com/en-us/products/category/compute/)
 
 [Microsoft Entra ID (formerly Azure Active Directory)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
-
-
-
 
 
 
