@@ -1,5 +1,8 @@
 # AZ-900 Azure Fundamentals
 
+[Get the presention](pdf)
+
+---
 
 Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
