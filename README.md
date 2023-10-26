@@ -18,7 +18,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
-[Free practice assessment](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+[Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
 [Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
 
