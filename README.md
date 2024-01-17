@@ -22,6 +22,24 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 [Exam Demo](https://aka.ms/examdemo)
 
 
+## New: Applied Skills
+
+[Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
+
+[Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
+
+[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC)
+
+[Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+
+|            | Learning Path | GitHub | Guided Project |
+| --------   | ------------- | ------ | -------------- |
+|            |*Infrastructure:*  |||
+| APL-1001   | [Deploy containers by using Azure Kubernetes Service][1001 LP]                                    | [Repo][1001 Repo] | [HTML][1001 HTML] |
+| APL-1002   | [Configure secure access to your workloads using Azure networking][1002 LP]                       | [Repo][1002 Repo] | [HTML][1002 HTML] |
+| APL-1003   | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                  | [Repo][1003 Repo] | [HTML][1003 HTML] |
+| APL-1004   | [Deploy and configure Azure Monitor][1004 LP]                                                     | [Repo][1004 Repo] | [HTML][1004 HTML] |
 
 
 ## Lab Environment Skillable 
