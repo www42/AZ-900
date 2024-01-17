@@ -41,6 +41,22 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 | APL-1003   | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]                                  | [Repo][1003 Repo] | [HTML][1003 HTML] |
 | APL-1004   | [Deploy and configure Azure Monitor][1004 LP]                                                     | [Repo][1004 Repo] | [HTML][1004 HTML] |
 
+[1001 LP]:   https://l[earn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
+[1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
+[1001 HTML]: https://microsoftlearning.github.io/deploy-and-manage-containers-with-azure-kubernetes-service/Instructions/Labs/Exercise_01_provision_registry_azu[re_kubernetes_service.html
+
+[1002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/
+[1002 Repo]: https://github.com/MicrosoftLearning/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services
+[1002 HTML]: https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/
+
+[1003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/
+[1003 Repo]: https://github.com/MicrosoftLearning/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage
+[1003 HTML]: https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/
+
+[1004 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/
+[1004 Repo]: https://github.com/MicrosoftLearning/APL-1004-deploy-configure-azure-monitor
+[1004 HTML]: https://microsoftlearning.github.io/APL-1004-deploy-configure-azure-monitor/
+
 
 ## Lab Environment Skillable 
 
