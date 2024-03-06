@@ -1,12 +1,5 @@
 # AZ-900 Azure Fundamentals
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?7712A362D206715662)
-
-[Claim your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=5JP74X)
-
-[Get the presentation](pdf)
-
-----
 
 
 Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
@@ -113,7 +106,6 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 ## Misc
 
-[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)
 
 [Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
@@ -136,6 +128,8 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 [The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)   pdf [click here](https://github.com/www42/AZ-900/blob/2db545e47abf146baf07f907f1c393310a982f31/NIST/nistspecialpublication800-145.pdf)
 
 [Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
+
+[Microsoft Learn AI Skills Challenge](https://www.microsoft.com/en-us/cloudskillschallenge/ai/registration/2024#choose-your-challenge)
 
 [Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
 
