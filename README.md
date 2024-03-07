@@ -27,7 +27,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC)
 
-[Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+➡️ [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) ⬅️
 
 
 |            | Learning Path | 
