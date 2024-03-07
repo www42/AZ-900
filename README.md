@@ -25,33 +25,9 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
 
-[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC)
-
-➡️ [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills) ⬅️
+➡️[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC) ⬅️
 
 
-|            | Learning Path | 
-| --------   | ------------- | 
-| AZ-1001   | [Deploy containers by using Azure Kubernetes Service][1001 LP]              |
-| AZ-1002   | [Configure secure access to your workloads using Azure networking][1002 LP] |
-| AZ-1003   | [Secure storage for Azure Files and Azure Blob Storage][1003 LP]            |
-| AZ-1004   | [Deploy and configure Azure Monitor][1004 LP]                               |
-
-[1001 LP]:   https://l[earn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/
-[1001 Repo]: https://github.com/MicrosoftLearning/deploy-and-manage-containers-with-azure-kubernetes-service
-[1001 HTML]: https://microsoftlearning.github.io/deploy-and-manage-containers-with-azure-kubernetes-service/Instructions/Labs/Exercise_01_provision_registry_azu[re_kubernetes_service.html
-
-[1002 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/
-[1002 Repo]: https://github.com/MicrosoftLearning/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services
-[1002 HTML]: https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/
-
-[1003 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/
-[1003 Repo]: https://github.com/MicrosoftLearning/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage
-[1003 HTML]: https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/
-
-[1004 LP]:   https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/
-[1004 Repo]: https://github.com/MicrosoftLearning/APL-1004-deploy-configure-azure-monitor
-[1004 HTML]: https://microsoftlearning.github.io/APL-1004-deploy-configure-azure-monitor/
 
 
 ## Lab Environment Skillable 
