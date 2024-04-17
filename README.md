@@ -1,8 +1,8 @@
 # AZ-900 Azure Fundamentals
 
-Give feedback
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?210758181209278603)
 
-Grab your badge
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=6XMYXX)
 
 [Get the presentation](pdf)
 
