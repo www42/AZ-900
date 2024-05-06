@@ -18,8 +18,6 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/)
 
-[Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
-
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
