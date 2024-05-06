@@ -13,10 +13,6 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
-[Exam duration and question types](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
-
-[Exam Demo](https://aka.ms/examdemo)
-
 
 ## New: Applied Skills
 
@@ -24,7 +20,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
 
-➡️[Applied Skills Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1c0zC) ⬅️
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
 
