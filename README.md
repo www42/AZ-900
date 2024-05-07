@@ -2,6 +2,8 @@
 
 [Get the presentation](pdf)
 
+---
+
 
 Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
