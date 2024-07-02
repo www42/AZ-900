@@ -13,15 +13,6 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 <br>
 <br>
 
-## Certification 
-
-[AZ-900 Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-
-[Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
-
-<br>
-<br>
-
 ## New: Microsoft Applied Skills
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
@@ -31,6 +22,16 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 [Applied Skill AZ-1003 Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
 [Email AZ-1003](AZ-1003/email.txt)
+
+
+<br>
+<br>
+
+## Certification 
+
+[AZ-900 Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
+[Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
 <br>
 <br>
