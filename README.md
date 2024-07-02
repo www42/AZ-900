@@ -12,7 +12,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 ## Certification 
 
-[Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[AZ-900 Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 [Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
@@ -25,7 +25,11 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Applied Skill AZ-1003 Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Lab Environment Skillable 
 
