@@ -30,7 +30,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Applied Skill AZ-1003 Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
-[Email AZ-1003](email AZ-1003\AZ-1003 Emails.txt)
+[Email AZ-1003](AZ-1003\email.txt)
 
 <br>
 <br>
