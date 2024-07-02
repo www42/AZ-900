@@ -10,12 +10,17 @@ Learning Path 02 [Describe Azure architecture and services](https://learn.micros
 
 Learning Path 03 [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
+<br>
+<br>
+
 ## Certification 
 
 [AZ-900 Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 [Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
+<br>
+<br>
 
 ## New: Microsoft Applied Skills
 
