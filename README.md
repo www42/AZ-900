@@ -1,6 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-Claim your badges: [AZ-900] (https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=339X8K) [AZ-1003](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2QR5P)
+Claim your badges: [AZ-900](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=339X8K) [AZ-1003](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2QR5P)
 
 [Give feedback (MTM)](https://www.metricsthatmatter.com/url/u.aspx?36DB14B36213721150)
 
