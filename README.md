@@ -1,12 +1,6 @@
 # AZ-900 Azure Fundamentals
 
-Claim your badges: [AZ-900](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=339X8K) and [AZ-1003](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2QR5P)
 
-[Give feedback (MTM)](https://www.metricsthatmatter.com/url/u.aspx?36DB14B36213721150)
-
-[Get the presentation](pdf)
-
----
 
 Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
@@ -43,12 +37,14 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 <br>
 <br>
 
-## Lab Environment Skillable 
+## Lab Environment 
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
-2. Register with Training Key
+2. Register with Training Key -->
+[Go Deploy](https://lms.godeploy.it)
+
 
 
 
