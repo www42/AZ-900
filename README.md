@@ -39,11 +39,12 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 ## Lab Environment 
 
-<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) 
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
-2. Register with Training Key -->
-[Go Deploy](https://lms.godeploy.it)
+2. Register with Training Key
+
+<!-- [Go Deploy](https://lms.godeploy.it) -->
 
 
 
