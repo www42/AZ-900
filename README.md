@@ -14,7 +14,6 @@ Learning Path 02 [Describe Azure architecture and services](https://learn.micros
 Learning Path 03 [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
 <br>
-<br>
 
 ## New: Microsoft Applied Skills
 
@@ -28,7 +27,6 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 
 <br>
-<br>
 
 ## Certification 
 
@@ -37,10 +35,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 [Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Lab Environment 
 
