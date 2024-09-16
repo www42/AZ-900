@@ -1,6 +1,11 @@
 # AZ-900 Azure Fundamentals
 
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?20A146CAB214132857)
 
+[Grab your badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=M87238&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+
+---
 
 Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
