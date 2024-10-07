@@ -33,10 +33,10 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 ## Lab Environment 
 
-<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) -->
+<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
-2. Register with Training Key
+2. Register with Training Key -->
 
 [Go Deploy](https://lms.godeploy.it)
 
@@ -133,7 +133,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=160>
 <a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="140"/></a>
 
-[My Microsoft certifications]()
+[My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
 
 [My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
 
