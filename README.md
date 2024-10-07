@@ -1,11 +1,5 @@
 # AZ-900 Azure Fundamentals
 
-[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?20A146CAB214132857)
-
-[Grab your badge (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=M87238&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-
----
 
 Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
 
@@ -39,12 +33,12 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 ## Lab Environment 
 
-[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) -->
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
-<!-- [Go Deploy](https://lms.godeploy.it) -->
+[Go Deploy](https://lms.godeploy.it)
 
 
 
@@ -134,10 +128,14 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 #### Thomas Jäkel
 
 <img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/45225cf5-ede7-45d2-8ac6-b5a22315679c/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
-<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
+<img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=150>
+<a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="150"/></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=160>
+<a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="140"/></a>
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
+[My Microsoft certifications]()
+
+[My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
 
 [Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
 
