@@ -4,7 +4,7 @@ $name = 'mycontainer2'
 $rgName = 'AZ-900-M3-EFVMQ9LMH2'
 $image = 'mcr.microsoft.com/azuredocs/aci-helloworld'
 $port = '80'
-$location = 'westeurope'
+$location = 'eastus'
 $dnsLabel = 'mycontainer5feedek'
 
 az container create --name $name `
