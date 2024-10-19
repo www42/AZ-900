@@ -90,7 +90,7 @@
 [Azure Resource Manager Overview](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 
 
-
+<br>
 
 ## Useful Links
 
@@ -121,10 +121,7 @@
 [Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
 
-
-
-
-
+<br>
 
 ##  Your Trainer
 #### Thomas Jäkel
