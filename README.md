@@ -1,13 +1,43 @@
+[LP1]: https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/
+
+
 # AZ-900 Azure Fundamentals
 
+<br>
 
-Learning Path 01 [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
+## Learning Paths
 
-Learning Path 02 [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
-
-Learning Path 03 [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+- Learning Path 1 [Describe cloud concepts][LP1]
+- Learning Path 2 [Describe Azure architecture and services][LP2]
+- Learning Path 3 [Describe Azure management and governance][LP3]
 
 <br>
+
+## Labs
+
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
+<!--[Go Deploy](https://lms.godeploy.it) -->
+
+
+<br>
+
+## Certification 
+
+|   |   |
+| - | - |
+|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/>|[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)|
+
+
+[Practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
+
+<br>
+
 
 ## New: Microsoft Applied Skills
 
@@ -15,34 +45,12 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
-[Applied Skill AZ-1003 Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
+<!-- [Applied Skill AZ-1003 Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
-[Email AZ-1003](AZ-1003/email.txt)
+[Email AZ-1003](AZ-1003/email.txt) -->
 
 
 <br>
-
-## Certification 
-
-[AZ-900 Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-
-[Free practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
-
-<br>
-
-
-## Lab Environment 
-
-<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) 
-
-1. Sign in with your Skillable account 
-2. Register with Training Key -->
-
-[Go Deploy](https://lms.godeploy.it)
-
-<br>
-
-
 
 
 ## Learning Path 01
@@ -84,12 +92,15 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 
 
-## Misc
+## Useful Links
 
+[Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
-[Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
+[Microsoft Learn](https://learn.microsoft.com)
 
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
 
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
@@ -99,21 +110,11 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
-[Bicep Playground](https://aka.ms/bicepdemo)
-
 [Azure Quickstart Templates](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager)
 
 [Deploy a simple Windows VM Template](https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/vm-simple-windows/)
 
 [The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)   pdf [click here](https://github.com/www42/AZ-900/blob/2db545e47abf146baf07f907f1c393310a982f31/NIST/nistspecialpublication800-145.pdf)
-
-[Magic Quadrant für Cloud-Infrastruktur und Plattform-Services 2021](https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OSP-DEU.html)
-
-[Microsoft Learn AI Skills Challenge](https://www.microsoft.com/en-us/cloudskillschallenge/ai/registration/2024#choose-your-challenge)
-
-[Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
-
-[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
 
 [Scott Hanselman](https://www.hanselman.com/)
 
@@ -138,7 +139,7 @@ Learning Path 03 [Describe Azure management and governance](https://learn.micros
 
 [My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
+[Email me](mailto:thomas.jaekel@brainymotion.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
