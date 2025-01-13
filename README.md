@@ -31,7 +31,7 @@
 
 |   |   |
 | - | - |
-|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/>|[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)|
+|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/>|[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)|
 
 
 [Practice assessment](https://learn.microsoft.com/credentials/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
