@@ -100,8 +100,6 @@
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
-[Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
-
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
@@ -116,10 +114,9 @@
 
 [The NIST Definition of Cloud Computing 2011](https://csrc.nist.gov/publications/detail/sp/800-145/final)   pdf [click here](https://github.com/www42/AZ-900/blob/2db545e47abf146baf07f907f1c393310a982f31/NIST/nistspecialpublication800-145.pdf)
 
-[Scott Hanselman](https://www.hanselman.com/)
+[Interaktive Weltkarte der Azure Regionen](https://datacenters.microsoft.com/globe/explore)
 
-[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
-
+[Pizza as a Service](https://m.oursky.com/saas-paas-and-iaas-explained-in-one-graphic-d56c3e6f4606)
 
 <br>
 
