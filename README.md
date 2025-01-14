@@ -5,6 +5,12 @@
 
 # AZ-900 Azure Fundamentals
 
+[Grab your badge!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=83Y6KN)
+
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?285CB0FE4218442781)
+
+[Get the presentation](pdf)
+
 <br>
 
 ## Learning Paths
