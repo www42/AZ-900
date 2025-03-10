@@ -5,6 +5,12 @@
 
 # AZ-900 Azure Fundamentals
 
+## Seminar 10. - 11. März 2025
+
+[Get the presentation](/pdf)
+
+<br>
+
 ## Learning Paths
 
 - Learning Path 1 [Describe cloud concepts][LP1]
