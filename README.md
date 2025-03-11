@@ -9,6 +9,10 @@
 
 [Get the presentation](/pdf)
 
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?AE60BD6CC220226223)
+
+[Claim your badges](https://learn.microsoft.com/users/me/achievements?redeem=94V3P3&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
 <br>
 
 ## Learning Paths
