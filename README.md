@@ -5,10 +5,10 @@
 
 # AZ-900 Azure Fundamentals
 
-<!--
-## Seminar 10. - 11. März 2025
+## Seminar 13. Mai 2025
 
 [Get the presentation](/pdf)
+<!--
 
 [Give feedback](https://www.metricsthatmatter.com/url/u.aspx?AE60BD6CC220226223)
 
