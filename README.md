@@ -5,10 +5,10 @@
 
 # AZ-900 Azure Fundamentals
 
-## Seminar 13. Mai 2025
+<!--
+## Seminar 16. Juni 2025
 
 [Get the presentation](/pdf)
-<!--
 
 [Give feedback](https://www.metricsthatmatter.com/url/u.aspx?AE60BD6CC220226223)
 
@@ -27,15 +27,16 @@
 
 ## Labs
 
-<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
--->
+<!--
 
 [Go Deploy](https://lms.godeploy.it)
+
+-->
 
 
 <br>
