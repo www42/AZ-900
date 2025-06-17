@@ -9,13 +9,13 @@
 
 [Get the presentation](/pdf)
 
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?57079E8B7223902290)
+
+[Claim your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=QJ8YP7)
+
 <!--
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?AE60BD6CC220226223)
-
-[Claim your badges](https://learn.microsoft.com/users/me/achievements?redeem=94V3P3&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-<br>
 -->
+<br>
 
 ## Learning Paths
 
