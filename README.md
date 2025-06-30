@@ -5,15 +5,16 @@
 
 # AZ-900 Azure Fundamentals
 
-## Seminar 16. Juni 2025
+<!--
+
+## Seminar 30.06. - 01.07. 2025
 
 [Get the presentation](/pdf)
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?57079E8B7223902290)
+[Give feedback]()
 
-[Claim your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=QJ8YP7)
+[Claim your badges]()
 
-<!--
 -->
 <br>
 
