@@ -5,11 +5,11 @@
 
 # AZ-900 Azure Fundamentals
 
-<!--
-
 ## Seminar 30.06. - 01.07. 2025
 
 [Get the presentation](/pdf)
+
+<!--
 
 [Give feedback]()
 
