@@ -9,12 +9,11 @@
 
 [Get the presentation](/pdf)
 
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?5A3823E43224407508)
+
+[Claim your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=RJR5X5)
+
 <!--
-
-[Give feedback]()
-
-[Claim your badges]()
-
 -->
 <br>
 
