@@ -5,7 +5,8 @@
 
 # AZ-900 Azure Fundamentals
 
-## Seminar 30.06. - 01.07. 2025
+<!--
+## Seminar 17.11. - 18.11. 2025
 
 [Get the presentation](/pdf)
 
@@ -13,7 +14,6 @@
 
 [Claim your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=RJR5X5)
 
-<!--
 -->
 <br>
 
@@ -122,10 +122,6 @@
 
 
 ## Useful Links
-
-[techConference Vienna 03.-04. Juni 2025](https://techconference.at/)
-
-[Microsoft Build 2025](https://build.microsoft.com/en-US/home)
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
 
