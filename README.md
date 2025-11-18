@@ -174,6 +174,8 @@
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
 
+[John Savill's Technical Training - YouTube](https://www.youtube.com/@NTFAQGuy)
+
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
