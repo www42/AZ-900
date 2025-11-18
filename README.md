@@ -40,41 +40,41 @@
 
 [Learning Path](https://learn.microsoft.com/en-us/training/paths/introduction-microsoft-azure-management-tasks/)
 
-[Emails](/Emails/Emails%20Get%20startet%20with%20Azure%20management%20tasks.md)
+[Tasks (Emails)](/Emails/Emails%20Get%20startet%20with%20Azure%20management%20tasks.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/)
+
 
 
 ### Applied Skill: Configure secure access to your workloads using Azure virtual networking (AZ-1002)
 
 [Learning Path][APL1]
 
-[Emails](/Emails/AZ-1002-Emails.md)
+[Tasks (Emails)](/Emails/AZ-1002-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
 
 [Optional: Lab instructions HTML](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/)
 
-<br>
+
 
 ### Applied Skill: Secure storage for Azure Files and Azure Blob Storage (AZ-1003)
 
 [Learning Path][APL2]
 
-[Emails](/Emails/AZ-1003-Emails.md)
+[Tasks (Emails)](/Emails/AZ-1003-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
 [Optional: Lab instructions HTML](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/)
 
 
-<br>
 
 ### Applied Skill: Deploy and configure Azure Monitor (AZ-1004)
 
 [Learning Path][APL3]
 
-[Emails](/Emails/AZ-1004-Emails.md)
+[Tasks (Emails)](/Emails/AZ-1004-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
