@@ -1,0 +1,119 @@
+Betreff: Allgemeine Richtlinien
+-------------------------------
+Die Bereitstellung bestimmter Ressourcen in diesem Szenario kann einige Minuten dauern. Machen Sie sich mit den anderen Aufgaben im Lab vertraut, während die Bereitstellung abgeschlossen wird. Sie können andere Aufgaben erledigen, die nicht von der Bereitstellung abhängen.
+
+Danke, dass Sie sich bereit erklärt haben, unser Team durch die Nutzung das Azure-Netzwerks beim Sichern des Zugriffs auf Ihre Workloads zu unterstützen.
+
+Wir haben einige allgemeine Richtlinien, die es beim Durchführen von Aufgaben in Azure zu beachten gilt.
+• Verwenden Sie beim Erstellen von Objekten die Standardeinstellungen, es sei denn, es existiert eine Anforderung, die eine abweichende Konfiguration erfordert.
+• Erstellen, löschen oder bearbeiten Sie Objekte nur dann, wenn dies zum Erfüllen der Anforderungen dient. Unnötige Änderungen an der Umgebung können sich negativ auf Ihre Abschlusspunktzahl auswirken.
+• Wenn ein Ziel auf mehrere Arten erreicht werden kann, wählen Sie immer den Ansatz, der den geringsten Verwaltungsaufwand erfordert.
+
+Vielen Dank,
+Chief Technology Officer (CTO)
+
+
+Betreff: Vorhandene Umgebung
+----------------------------
+Hier sind Ihre Anmeldeinformationen für unsere Azure-Ressourcen:
+Benutzername: 
+Kennwort:
+
+Sie finden die Anmeldeinformationen auch auf der Registerkarte Anweisungen.
+
+Ihnen wurden Berechtigungen für die Ressourcengruppe RG1lod36839681 erteilt. Erstellen Sie sämtliche Azure-Objekte in dieser Ressourcengruppe.
+
+Unsere Azure-Umgebung enthält die folgenden virtuellen Netzwerke in der Azure-Region „Europa, Westen".
+
+Name    Subnetz     Virtueller Computer
+VNET1   Subnet1-1   VM1
+VNet2   Subnet2-1   VM2
+                    VM3
+
+Falls Sie weitere Fragen zur Umgebung haben, können Sie sich im Azure-Portal umsehen.
+
+Vielen Dank,
+Netzwerkadministrator
+
+
+
+Betreff: Subnet1-1 für die Verwendung von Azure Firewall konfigurieren
+----------------------------------------------------------------------
+Guten Tag,
+
+wir möchten gerne Azure Firewall einsetzen, um den Zugang aus unseren virtuellen Azure-Netzwerken ins Internet zu kontrollieren.
+
+Zu Anfang soll Azure Firewall nur für Subnet1-1 eingesetzt werden. Die Hosts in VNet1 verbinden sich mit einem externen Internet-App-Dienst mit dem Namen „RelecloudDataService". RelecloudDataService ist unter
+131.107.3.210 auf dem TCP-Port 9000 erreichbar.
+
+Hier ist Ihre Aufgabe:
+
+Sie sollen Azure Firewall bereitstellen und den Zugriff von Subnet1-1 auf RelecloudDataService zulassen. Verwenden Sie eine Routingtabelle, um sicherzustellen, dass alle weiteren Zugriffe von Subnet1-1 auf das
+öffentliche Internet blockiert werden.
+
+Vielen Dank,
+Netzwerkadministrator
+
+
+
+
+Betreff: Umgebung für die Bereitstellung von VM4 vorbereiten
+------------------------------------------------------------
+Wir entwickeln eine Anwendung mit dem Namen App1, die auf virtuellen Maschinen in den Azure-Regionen „Europa, Westen" und „Europa, Norden" bereitgestellt werden wird. Zu Anfang wird App1 auf VM2 und VM3
+bereitgestellt. Später wird eine neue virtuelle Maschine mit dem Namen VM4 in der Region „Europa, Norden" bereitgestellt, auf der App1 ebenfalls gehostet wird.
+
+Hier ist Ihre Aufgabe:
+
+Konfigurieren Sie ein Subnetz, um die Bereitstellung von VM4 zu unterstützen. Das Subnetz muss folgende Anforderungen erfüllen:
+• Es muss sich in der Region Europa, Norden befinden.
+• Es muss den IP-Adressraum 10.3.1.0/24 verwenden.
+• Stellen Sie sicher, dass die Hosts im neuen Subnetz mit den Hosts im gleichen virtuellen Netzwerk kommunizieren können.
+• Stellen Sie sicher, dass das neue virtuelle Netzwerk per Peering mit VNet2 verbunden wird.
+
+Vielen Dank,
+Anwendungsentwickler
+
+
+
+
+
+Betreff: DNS für das neue Subnetz konfigurieren
+-----------------------------------------------
+Guten Tag,
+
+hier sind die Details für die DNS-Konfiguration im Subnetz.
+
+Hier ist Ihre Aufgabe:
+
+Konfigurieren Sie DNS für das neue Subnetz. Dabei gelten folgende Anforderungen:
+• Stellen Sie sicher, dass sich das neue Subnetz automatisch in der privaten DNS-Azure-Zone contoso.com registriert.
+• Die Hosts im neuen Subnetz müssen sich mit VM2 in Subnet2-1 verbinden können, indem sie den vollqualifizierten Domänennamen (FQDN) vm2.contoso.com verwenden.
+
+Vielen Dank,
+Anwendungsentwickler
+
+
+
+
+Betreff: Netzwerksicherheit konfigurieren
+-----------------------------------------
+Wir möchten den eingehenden Datenverkehr an Subnet1-1 einschränken.
+
+Hier ist Ihre Aufgabe:
+
+Erstellen Sie eine Anwendungssicherheitsgruppe, die VM2 und VM3 enthält. Stellen Sie sicher, dass Subnet1-1 nur eingehende Verbindungen von Mitgliedern der Anwendungssicherheitsgruppe über den TCP-Port 1433 zulässt.
+
+Vielen Dank,
+Security Operations
+
+
+
+
+Betreff: Status - Abgeschlossen
+-------------------------------
+Danke, dass Sie sich bereit erklärt haben, unserem Team beim Konfigurieren und Absichern unserer virtuellen Azure-Netzwerkumgebung zu helfen.
+
+Wir freuen uns darauf, erneut mit Ihnen zusammenzuarbeiten.
+
+Mit freundlichen Grüßen
+Chief Technology Officer (CTO)
