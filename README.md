@@ -22,7 +22,7 @@
 -->
 <br>
 
-## Learning Paths
+## AZ-900 Learning Paths
 
 - Learning Path 1 [Describe cloud concepts][LP1]
 - Learning Path 2 [Describe Azure architecture and services][LP2]
@@ -34,6 +34,8 @@
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
+<br>
+
 ### Applied Skill: Get startet with Azure management tasks
 
 [Learning Path](https://learn.microsoft.com/en-us/training/paths/introduction-microsoft-azure-management-tasks/)
@@ -42,7 +44,6 @@
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/)
 
-<br>
 
 ### AZ-1002 Configure secure access to your workloads using Azure virtual networking
 
