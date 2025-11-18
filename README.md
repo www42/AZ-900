@@ -45,7 +45,7 @@
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/)
 
 
-### AZ-1002 Configure secure access to your workloads using Azure virtual networking
+### Applied Skill: Configure secure access to your workloads using Azure virtual networking (AZ-1002)
 
 [Learning Path][APL1]
 
@@ -57,7 +57,7 @@
 
 <br>
 
-### AZ-1003 Secure storage for Azure Files and Azure Blob Storage
+### Applied Skill: Secure storage for Azure Files and Azure Blob Storage (AZ-1003)
 
 [Learning Path][APL2]
 
@@ -70,7 +70,7 @@
 
 <br>
 
-### AZ-1004 Deploy and configure Azure Monitor
+### Applied Skill: Deploy and configure Azure Monitor (AZ-1004)
 
 [Learning Path][APL3]
 
@@ -79,6 +79,8 @@
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
 [Optional: Lab instructions HTML](https://microsoftlearning.github.io/AZ-1004-deploy-configure-azure-monitor/)
+
+<br>
 
 <br>
 
