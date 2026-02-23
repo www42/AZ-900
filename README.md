@@ -30,6 +30,8 @@
 
 <br>
 
+<!--
+
 ## Applied Skills (Practical Assessments for free)
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
@@ -83,6 +85,7 @@
 <br>
 
 <br>
+-->
 
 
 
