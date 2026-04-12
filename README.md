@@ -91,12 +91,10 @@
 
 ## Labs
 
-<!--[Lab environment Skillable](https://brainymotion.learnondemand.net) -->
+<!-- [Lab environment Skillable](https://brainymotion.learnondemand.net) -->
 
 [Lab environment Skillable](https://arrowecs-com.learnondemand.net/) 
 
-1. Sign in with your Skillable account 
-2. Register with Training Key
 
 <!--
 
